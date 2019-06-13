@@ -1,0 +1,2 @@
+		晨曦权限系统
+Spring-Boot-Version: ${spring-boot.version}
